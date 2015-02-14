@@ -1,0 +1,5 @@
+#.gitignore file for FreePascal-ARCH-x86
+
+.DS_Store
+*.swp
+
