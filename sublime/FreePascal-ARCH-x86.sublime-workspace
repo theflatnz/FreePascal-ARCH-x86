@@ -8,10 +8,21 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "README.md",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 70,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FreePascal-ARCH-x86.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 2049,
 				"line_ending": "Unix"
 			}
 		}
@@ -57,6 +68,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"CarryoverChat",
+			"Valid 1 ",
+			"100",
+			"Euisquam",
+			"Join 2degrees"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -74,7 +90,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -82,20 +98,47 @@
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 70,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FreePascal-ARCH-x86.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 2049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -162,6 +205,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 298.0,
 	"status_bar_visible": true
 }
